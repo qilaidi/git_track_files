@@ -55,6 +55,7 @@ Plugin 'Valloric/YouCompleteMe' " auto complete
 Plugin 'aperezdc/vim-template' " new file templates
 Plugin 'mfukar/robotframework-vim' " robotframework sytax on
 Plugin 'mattn/emmet-vim' " for html and css
+Plugin 'derekwyatt/vim-scala' " scala
 
 " add all your plugins must be added before the following line
 call vundle#end()  " required
